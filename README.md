@@ -8,9 +8,13 @@
 Predictive Maintenance Modelling Guide Python Notebook
 <https://gallery.cortanaintelligence.com/Notebook/Predictive-Maintenance-Modelling-Guide-Python-Notebook-1>
 
+
 ■ PredictiveMaintenanceModellingGuide_R_Notebook.r
 
 予兆保全のサンプルである以下のコンテンツのノートブックは R で記載されています。
 これを、Visual Studio Community 2017 で動作するように移植した R コードになります。
+
+Predictive Maintenance Modelling Guide R Notebook
+<https://gallery.cortanaintelligence.com/Notebook/Predictive-Maintenance-Implementation-Guide-R-Notebook-2>
 
 以上
